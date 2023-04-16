@@ -10,11 +10,13 @@ principal component anlysis to rotate the foot
 
 CPEI calculation
 
-To improve this code, filter and spline interpolation of the center of pressure curve could be implemented.
-
 exemple:
 
 
 ![alt text](https://github.com/PabRD/CPEI_CenterPressureExcursionIndex/blob/main/gitHub_Exemple.png)
+
+_________________________________
+To improve this code, filter and spline interpolation of the center of pressure curve could be implemented.
+
 
 Song J, Hillstrom HJ, Secord D, Levitt J. Foot type biomechanics: Comparison of planus and rectus foot types. J Am Podiatr Med Assoc. 1996;86(1):16-23. doi:10.7547/87507315-86-1-16
