@@ -10,6 +10,7 @@ principal component anlysis to rotate the foot
 
 CPEI calculation
 
+To improve this code, filter and spline interpolation of the center of pressure curve could be implemented.
 
 exemple:
 
