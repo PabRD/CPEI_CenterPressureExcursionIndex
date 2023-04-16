@@ -9,7 +9,7 @@ center of pressure calculation
 principal component anlysis to rotate the foot
 
 CPEI calculation
-
+___________________________________
 exemple:
 
 
