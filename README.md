@@ -3,9 +3,13 @@ Center of pressure excursion index calculation based on Song et al. 1996
 
 steps:
 import data from a 64 by 64 pressure platform (TexiSense) with a 30 Hz sampling frequency
+
 center of pressure calculation
+
 principal component anlysis to rotate the foot
+
 CPEI calculation
+
 
 exemple:
 
